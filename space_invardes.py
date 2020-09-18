@@ -1,4 +1,5 @@
-  #python 3 - space invaders game
+# python 3 - space invaders game
+# Art by Kenney.nl / (www.kenney.nl)
 import pygame, random, time
 from os import path
 
